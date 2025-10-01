@@ -50,16 +50,6 @@ Other:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alleJKomal&show_icons=true&theme=radical" alt="Komal's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=alleJKomal&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleJKomal&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ### 🎧 When Not Coding...
 
 - Vibing to music (code and synthwave are best friends 🎶)
